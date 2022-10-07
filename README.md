@@ -28,7 +28,7 @@ eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
 # Azure AD Lab Setup
 Building Free AD lab: https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f
 
-# 𝐌𝐎𝐁𝐈𝐋𝐄 𝐀𝐏𝐏 𝐏𝐄𝐍𝐓𝐄𝐒𝐓
+# Mobile App PenTest 
 
 Here is a list of resources
 
