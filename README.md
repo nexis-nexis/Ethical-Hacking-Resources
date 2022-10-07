@@ -27,3 +27,22 @@ eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
 
 # Azure AD Lab Setup
 Building Free AD lab: https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f
+
+# 𝐌𝐎𝐁𝐈𝐋𝐄 𝐀𝐏𝐏 𝐏𝐄𝐍𝐓𝐄𝐒𝐓
+
+Here is a list of resources
+
+Android Bug Bounty Hunting: Hunt Like a Rat by Wesley Thijs
+- https://lnkd.in/ejwiiUZg 
+
+Set up your lab, learn about the methodology and get more resources on my Pentips
+- https://lnkd.in/ePW2rMNp 
+
+Mobile App Penetration Testing Cheat Sheet by tanprathan
+- https://lnkd.in/eDehivgn 
+
+The Mobile Penetration Tester Roadmap by rezaduty:
+- https://lnkd.in/e6vCkBiM 
+
+eMAPT - eLearnSecurity certification on Mobile Pentesting 
+- Check out Joas A Santos’ notes on this: https://lnkd.in/eNHkBa3x
