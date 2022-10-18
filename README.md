@@ -58,3 +58,55 @@ The Mobile Penetration Tester Roadmap by rezaduty:
 
 eMAPT - eLearnSecurity certification on Mobile Pentesting 
 - Check out Joas A Santos’ notes on this: https://lnkd.in/eNHkBa3x
+
+- https://youtube.com/playlist?list=PLY47jY-dcCPXA-IAXaP92FZIkp75fUVfo
+
+- https://xmind.net/m/GkgaYH/
+
+- https://iamsarvagyaa.github.io/android-security-part-one/
+
+- https://hacker101.com/sessions/android-hacking-b3nac.html
+
+- https://github.com/anantshri/Android_Security
+
+- https://link.medium.com/pAN9YIF44gb
+
+- https://mobile-security.gitbook.io/mobile-security-testing-guide/overview/0x03-overview
+
+- https://www.synopsys.com/glossary/what-is-mobile-application-security.html
+
+- https://medium.com/inbughunters/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15
+
+- https://medium.com/inbughunters/basic-android-security-testing-lab-part-1-a2b87e667533
+
+- https://hackersonlineclub.com/mobile-security-penetration-testing/
+
+- https://gbhackers.com/android-security-penetration-testing/
+
+- https://enciphers.com/awesome-android-application-security/
+
+- https://enciphers.com/awesome-ios-application-security/
+
+- https://oscp.medium.com/complete-android-pentesting-guide-203ed34035e3
+
+- https://book.hacktricks.xyz/mobile-apps-pentesting/android-app-pentesting
+
+- https://payatu.com/blog/amit/android_pentesting_lab
+
+- https://pentestbook.six2dez.com/mobile/android
+
+- https://github.com/imran-parray/Mind-Maps
+
+- https://mobisec.reyammer.io/
+
+- https://mobexler.com/checklist.htm
+
+- https://github.com/B3nac/Android-Reports-and-Resources
+
+- https://m2sup3rn0va.github.io/SiAAA/
+
+- https://mobile-security.gitbook.io/masvs/
+
+- https://infosecwriteups.com/android-app-security-testing-156a052ce7e8
+
+- https://infosecwriteups.com/dont-stop-at-one-bug-d3c56806b5
