@@ -42,7 +42,7 @@ Building Free AD lab
 
 ## Mobile App PenTest 
 
-Here is a list of resources
+#### Here is a list of resources
 
 Android Bug Bounty Hunting: Hunt Like a Rat by Wesley Thijs
 - https://lnkd.in/ejwiiUZg 
@@ -58,6 +58,8 @@ The Mobile Penetration Tester Roadmap by rezaduty:
 
 eMAPT - eLearnSecurity certification on Mobile Pentesting 
 - Check out Joas A Santos’ notes on this: https://lnkd.in/eNHkBa3x
+
+#### Other Rrsources
 
 - https://youtube.com/playlist?list=PLY47jY-dcCPXA-IAXaP92FZIkp75fUVfo
 
