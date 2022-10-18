@@ -59,7 +59,7 @@ The Mobile Penetration Tester Roadmap by rezaduty:
 eMAPT - eLearnSecurity certification on Mobile Pentesting 
 - Check out Joas A Santos’ notes on this: https://lnkd.in/eNHkBa3x
 
-#### Other Rrsources
+#### Other Resources
 
 - https://youtube.com/playlist?list=PLY47jY-dcCPXA-IAXaP92FZIkp75fUVfo
 
